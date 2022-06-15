@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "RyoshiBee's GitHub Journey:" Pending"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome! You will be one of the fiurst to see my github projects :3
